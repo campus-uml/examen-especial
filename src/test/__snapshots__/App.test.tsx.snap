@@ -1,0 +1,261 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Testing de App > Debe renderizarse correctamente 1`] = `
+<body>
+  <div>
+    <div
+      class="max-w-md md:max-w-2xl lg:max-w-4xl mx-auto p-4"
+    >
+      <h1
+        class="text-2xl sm:text-3xl font-bold text-center mb-6"
+      >
+        Hotels
+      </h1>
+      <div
+        class="flex flex-col gap-4"
+      >
+        <div
+          class="flex items-center gap-4 p-4 border rounded-lg shadow-sm"
+          data-testid="hotel-item"
+        >
+          <img
+            alt="Ledadu Beach"
+            class="w-16 h-16 md:w-20 md:h-20 rounded-md"
+            src="./img/img1.jpg"
+          />
+          <div
+            class="flex flex-col flex-grow"
+          >
+            <h2
+              class="text-lg font-semibold"
+              data-testid="hotel-name"
+            >
+              Ledadu Beach
+            </h2>
+            <p
+              class="text-sm text-gray-600"
+            >
+              3 days 2 nights
+            </p>
+            <p
+              class="text-sm text-gray-500"
+            >
+              📍 Australia
+            </p>
+          </div>
+          <p
+            class="text-lg font-bold"
+          >
+            $20
+            <span
+              class="text-sm"
+            >
+              /Person
+            </span>
+          </p>
+        </div>
+        <div
+          class="flex items-center gap-4 p-4 border rounded-lg shadow-sm"
+          data-testid="hotel-item"
+        >
+          <img
+            alt="Endigada Beach"
+            class="w-16 h-16 md:w-20 md:h-20 rounded-md"
+            src="./img/img2.jpg"
+          />
+          <div
+            class="flex flex-col flex-grow"
+          >
+            <h2
+              class="text-lg font-semibold"
+              data-testid="hotel-name"
+            >
+              Endigada Beach
+            </h2>
+            <p
+              class="text-sm text-gray-600"
+            >
+              5 days 4 nights
+            </p>
+            <p
+              class="text-sm text-gray-500"
+            >
+              📍Japon
+            </p>
+          </div>
+          <p
+            class="text-lg font-bold"
+          >
+            $18
+            <span
+              class="text-sm"
+            >
+              /Person
+            </span>
+          </p>
+        </div>
+        <div
+          class="flex items-center gap-4 p-4 border rounded-lg shadow-sm"
+          data-testid="hotel-item"
+        >
+          <img
+            alt="Doreen Tower"
+            class="w-16 h-16 md:w-20 md:h-20 rounded-md"
+            src="./img/img3.jpg"
+          />
+          <div
+            class="flex flex-col flex-grow"
+          >
+            <h2
+              class="text-lg font-semibold"
+              data-testid="hotel-name"
+            >
+              Doreen Tower
+            </h2>
+            <p
+              class="text-sm text-gray-600"
+            >
+              5 days 4 nights
+            </p>
+            <p
+              class="text-sm text-gray-500"
+            >
+              📍 USA
+            </p>
+          </div>
+          <p
+            class="text-lg font-bold"
+          >
+            $14
+            <span
+              class="text-sm"
+            >
+              /Person
+            </span>
+          </p>
+        </div>
+        <div
+          class="flex items-center gap-4 p-4 border rounded-lg shadow-sm"
+          data-testid="hotel-item"
+        >
+          <img
+            alt="Royal Palace"
+            class="w-16 h-16 md:w-20 md:h-20 rounded-md"
+            src="./img/img4.jpg"
+          />
+          <div
+            class="flex flex-col flex-grow"
+          >
+            <h2
+              class="text-lg font-semibold"
+              data-testid="hotel-name"
+            >
+              Royal Palace
+            </h2>
+            <p
+              class="text-sm text-gray-600"
+            >
+              5 days 4 nights
+            </p>
+            <p
+              class="text-sm text-gray-500"
+            >
+              📍 China
+            </p>
+          </div>
+          <p
+            class="text-lg font-bold"
+          >
+            $21
+            <span
+              class="text-sm"
+            >
+              /Person
+            </span>
+          </p>
+        </div>
+        <div
+          class="flex items-center gap-4 p-4 border rounded-lg shadow-sm"
+          data-testid="hotel-item"
+        >
+          <img
+            alt="Royal Palace"
+            class="w-16 h-16 md:w-20 md:h-20 rounded-md"
+            src="./img/img5.jpg"
+          />
+          <div
+            class="flex flex-col flex-grow"
+          >
+            <h2
+              class="text-lg font-semibold"
+              data-testid="hotel-name"
+            >
+              El Dorado
+            </h2>
+            <p
+              class="text-sm text-gray-600"
+            >
+              5 days 4 nights
+            </p>
+            <p
+              class="text-sm text-gray-500"
+            >
+              📍España
+            </p>
+          </div>
+          <p
+            class="text-lg font-bold"
+          >
+            $26
+            <span
+              class="text-sm"
+            >
+              /Person
+            </span>
+          </p>
+        </div>
+        <div
+          class="flex items-center gap-4 p-4 border rounded-lg shadow-sm"
+          data-testid="hotel-item"
+        >
+          <img
+            alt="Royal Palace"
+            class="w-16 h-16 md:w-20 md:h-20 rounded-md"
+            src="./img/img6.jpg"
+          />
+          <div
+            class="flex flex-col flex-grow"
+          >
+            <h2
+              class="text-lg font-semibold"
+              data-testid="hotel-name"
+            >
+              San Marino
+            </h2>
+            <p
+              class="text-sm text-gray-600"
+            >
+              5 days 4 nights
+            </p>
+            <p
+              class="text-sm text-gray-500"
+            >
+              📍Argentina
+            </p>
+          </div>
+          <p
+            class="text-lg font-bold"
+          >
+            $28
+            <span
+              class="text-sm"
+            >
+              /Person
+            </span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
