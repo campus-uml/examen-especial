@@ -64,7 +64,7 @@ const App = () => {
           <div className="flex flex-col flex-grow">
             <h2 className="text-lg font-semibold" data-testid="hotel-name">San Marino</h2>
             <p className="text-sm text-gray-600">5 days 4 nights</p>
-            <p className="text-sm text-gray-500">📍Argentina</p>
+            <p className="text-sm text-gray-500">📍Argentin</p>
           </div>
           <p className="text-lg font-bold">$28<span className="text-sm">/Person</span></p>
         </div>
